@@ -2,6 +2,6 @@
 
 I'm a student at the University of Chicago.
 
-- 🌱 I’m currently learning R and python
-- ⚡ Fun fact: I'm a published journalist and writer
+- 🌱 I’m currently concentrating in CS and learning python 
+- ⚡ Fun fact: I'm a published journalist and poet
 - 💬 Click [here](https://hirachelliu.wixsite.com/portfolio) for my portfolio
